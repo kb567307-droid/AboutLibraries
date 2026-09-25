@@ -1,6 +1,8 @@
-name: "Scorecard"
+karan bhuyan
 
-on:
+support@hurelax.com: "Scorecard"
+
+::
   branch_protection_rule:
   schedule:
     - cron: '32 4 * * 1'
